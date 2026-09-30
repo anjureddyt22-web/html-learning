@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>portfolio</title>
+</head>
+<body style="background-color:rgb(216, 236, 236)">
+    
+    <img src="C:\Users\91994\Downloads\images (1).jpg" alt="profilr photo" 
+     style="display: block; margin:auto;
+     width:150px;height:150px;
+     border-radius:50%;">
+     <h1 style="text-align:center;"> DEEKSHITHA REDDY</h1>
+     <h3 style="text-align: center;"> AI Data Annotation & Quality Analyst at Cognizant</h3>
+     <hr>
+    <div style="display: flex;gap: 30px;">
+        <div>
+            <h2>About me</h2>
+            <ol>
+            <li>currently i am doing job at cognizant .</li>
+                <li> <ol><h4>I completed my:</h4><li> MBA in SRI BALAGI anantapur</li>
+                <li>Degree at sv college anantapur</li>
+                <li>ssc at ZPHS muradi.</li>
+                </li>
+                </ol>
+               
+            </ol>
+            </div>
+             <div>
+                <h2>My skills</h2>
+                <ol>
+                    <li>java.</li>
+                    <li>Frontend.</li>
+                    <li>java</li>
+                    <li>MySQL</li>
+                <li>Backend</li>
+                 <li>Artificial Inteligence</li>
+                 <li>ML</li>
+                </ol>
+             </div>
+             </div>
+             <hr>
+             <h2 style="text-align: center;"> MY PROJECTS</h2>
+             <ol>
+                <li>SINGNOVA</li>
+                <li>STUDENT CAREER</li>
+             </ol>
+</body>
+</html>
