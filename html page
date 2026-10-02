@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>LearnNova</title>
+</head>
+<body>
+    <div style="display: flex;">
+       <img src="C:\Users\91994\Downloads\cap.jpg" alt="study cap" height="80" width="100">
+      <div style="display: flex; gap: 350px;">
+       <h4>LearnNova</h4>
+       <div>
+        <h4>Login | sign up</h4>
+       </div>
+      </div>
+    </div>
+    <h1 style="color: blue;">Learn.Practice.Grow.</h1>
+    <p>Your one stop platform for coding, learning and achieving your goals.</p>
+    <img src="C:\Users\91994\Downloads\images (2).jpg" alt="" width="600" height="200">
+    <button class="get-started">Get Started</button>
+    <style>
+        .get-started{
+            width: 90%;
+            height: 60px;
+            background-color: blue;
+            color: aliceblue;
+            font-size: large;
+            border-radius: 30px;
+        }
+    </style>
+    <h4>Explore Subjects</h4>
+    <div style="display: flex; gap: 10px;">
+        <img src="C:\Users\91994\Downloads\Python-logo-notext.svg.webp" alt="" width="300" height="150">
+        <div style="display: flex; gap: 10px;">
+        <img src="C:\Users\91994\Downloads\Java-Logo.png" alt="" height="150" width="300">
+       <div>
+            <img src="C:\Users\91994\Downloads\images.png" alt="" height="150" width="200">
+        </div>
+    </div>
+    </div>
+    
+</body>
+</html>
